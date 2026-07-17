@@ -1,0 +1,4 @@
+interface:
+  display_name: "Whiteboard Explainer Video"
+  short_description: "Build narration-timed hand-drawn explainer videos."
+  default_prompt: "Use $whiteboard-explainer-video to turn these storyboard images into a narration-timed hand-drawn explainer video while preserving image text."
